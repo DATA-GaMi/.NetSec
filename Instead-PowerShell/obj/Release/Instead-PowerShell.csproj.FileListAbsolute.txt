@@ -1,0 +1,9 @@
+E:\CPP\2024\Instead-PowerShell\bin\Release\Instead-PowerShell.exe.config
+E:\CPP\2024\Instead-PowerShell\bin\Release\Instead-PowerShell.exe
+E:\CPP\2024\Instead-PowerShell\bin\Release\Instead-PowerShell.pdb
+E:\CPP\2024\Instead-PowerShell\bin\Release\System.Management.Automation.dll
+E:\CPP\2024\Instead-PowerShell\obj\Release\Instead-PowerShell.csproj.AssemblyReference.cache
+E:\CPP\2024\Instead-PowerShell\obj\Release\Instead-PowerShell.csproj.CoreCompileInputs.cache
+E:\CPP\2024\Instead-PowerShell\obj\Release\Instead-.1BC8074C.Up2Date
+E:\CPP\2024\Instead-PowerShell\obj\Release\Instead-PowerShell.exe
+E:\CPP\2024\Instead-PowerShell\obj\Release\Instead-PowerShell.pdb
